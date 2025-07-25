@@ -25,9 +25,9 @@ const menuItems: MenuItem[] = [
       en: ['Phyllo dough', 'Ground meat', 'Onions', 'Eggs', 'Oil'],
       sq: ['Brumë filo', 'Mish i grirë', 'Qepë', 'Vezë', 'Vaj']
     },
-    price: '€4.50',
+    price: '€3.00',
     category: 'fastfood',
-    image: '🥧'
+    image: '🌯'
   },
   {
     id: 2,
@@ -40,7 +40,7 @@ const menuItems: MenuItem[] = [
       en: ['Lamb/Chicken meat', 'Pita bread', 'Onions', 'Tomatoes', 'Sauce'],
       sq: ['Mish dashi/pule', 'Bukë pite', 'Qepë', 'Domate', 'Salcë']
     },
-    price: '€5.00',
+    price: '€3.00',
     category: 'fastfood',
     image: '🌯'
   },
@@ -55,7 +55,7 @@ const menuItems: MenuItem[] = [
       en: ['Spiced meat', 'Tortilla wrap', 'Lettuce', 'Tomatoes', 'Garlic sauce'],
       sq: ['Mish i erëzuar', 'Tortilla', 'Marulë', 'Domate', 'Salcë hudhra']
     },
-    price: '€5.50',
+    price: '€4.50',
     category: 'fastfood',
     image: '🌯'
   },
@@ -85,7 +85,7 @@ const menuItems: MenuItem[] = [
       en: ['Bread', 'Ham', 'Cheese', 'Lettuce', 'Tomato', 'Mayo'],
       sq: ['Bukë', 'Proshutë', 'Djathë', 'Marulë', 'Domate', 'Mayonez']
     },
-    price: '€4.00',
+    price: '€2.00',
     category: 'fastfood',
     image: '🥪'
   },
@@ -100,7 +100,7 @@ const menuItems: MenuItem[] = [
       en: ['Beef patty', 'Bun', 'Lettuce', 'Tomato', 'Onion', 'Sauce'],
       sq: ['Biftek viçi', 'Bukë', 'Marulë', 'Domate', 'Qepë', 'Salcë']
     },
-    price: '€6.00',
+    price: '€3.00',
     category: 'fastfood',
     image: '🍔'
   },
@@ -115,7 +115,7 @@ const menuItems: MenuItem[] = [
       en: ['Chicken breast', 'Breadcrumbs', 'Potatoes', 'Oil', 'Seasoning'],
       sq: ['Gjoks pule', 'Thërrime buke', 'Patate', 'Vaj', 'Erëza']
     },
-    price: '€7.50',
+    price: '€3.50',
     category: 'fastfood',
     image: '🍗'
   },
@@ -130,7 +130,7 @@ const menuItems: MenuItem[] = [
       en: ['Chicken cutlet', 'Tortilla', 'Vegetables', 'Sauce'],
       sq: ['Kotolet pule', 'Tortilla', 'Perime', 'Salcë']
     },
-    price: '€6.50',
+    price: '€5.00',
     category: 'fastfood',
     image: '🌯'
   },
@@ -145,12 +145,42 @@ const menuItems: MenuItem[] = [
       en: ['Beef patty', 'Bread slice', 'Lettuce', 'Tomato', 'Cheese'],
       sq: ['Biftek viçi', 'Fetë bukë', 'Marulë', 'Domate', 'Djathë']
     },
-    price: '€7.00',
+    price: '€6.00',
     category: 'fastfood',
     image: '🍔'
   },
   {
     id: 10,
+    name: { en: 'Open Sufllaqe', sq: 'Sufllaqe i hapur' },
+    description: { 
+      en: 'Open-faced Sufllaqe served on a plate',
+      sq: 'Sufllaqe i hapur i shërbyer në pjatë'
+    },
+    ingredients: { 
+      en: ['Beef patty', 'Bread slice', 'Lettuce', 'Tomato', 'Cheese'],
+      sq: ['Biftek viçi', 'Fetë bukë', 'Marulë', 'Domate', 'Djathë']
+    },
+    price: '€6.00',
+    category: 'fastfood',
+    image: '🌯'
+  },
+  {
+    id: 11,
+    name: { en: 'Open Doner', sq: 'Doner i hapur' },
+    description: { 
+      en: 'Open-faced Doner served on a plate',
+      sq: 'Doner i hapur i shërbyer në pjatë'
+    },
+    ingredients: { 
+      en: ['Beef patty', 'Bread slice', 'Lettuce', 'Tomato', 'Cheese'],
+      sq: ['Biftek viçi', 'Fetë bukë', 'Marulë', 'Domate', 'Djathë']
+    },
+    price: '€6.00',
+    category: 'fastfood',
+    image: '🌯'
+  },
+  {
+    id: 12,
     name: { en: 'Sausage Roll', sq: 'Samune me suxhuk' },
     description: { 
       en: 'Fresh roll with Albanian sausage',
@@ -160,12 +190,12 @@ const menuItems: MenuItem[] = [
       en: ['Fresh roll', 'Albanian sausage', 'Onions', 'Peppers'],
       sq: ['Samun i freskët', 'Suxhuk shqiptar', 'Qepë', 'Spec']
     },
-    price: '€4.50',
+    price: '€7.00',
     category: 'fastfood',
     image: '🥖'
   },
   {
-    id: 11,
+    id: 13,
     name: { en: 'Chicken Roll', sq: 'Samune me mish pule' },
     description: { 
       en: 'Fresh roll with grilled chicken',
@@ -175,12 +205,12 @@ const menuItems: MenuItem[] = [
       en: ['Fresh roll', 'Grilled chicken', 'Lettuce', 'Tomato'],
       sq: ['Samun i freskët', 'Mish pule i pjekur', 'Marulë', 'Domate']
     },
-    price: '€5.00',
+    price: '€7.00',
     category: 'fastfood',
     image: '🥖'
   },
   {
-    id: 12,
+    id: 14,
     name: { en: 'Cheese Roll', sq: 'Samune me djathë' },
     description: { 
       en: 'Fresh roll with melted cheese',
@@ -190,12 +220,12 @@ const menuItems: MenuItem[] = [
       en: ['Fresh roll', 'Cheese', 'Butter'],
       sq: ['Samun i freskët', 'Djathë', 'Gjalpë']
     },
-    price: '€3.50',
+    price: '€7.00',
     category: 'fastfood',
     image: '🥖'
   },
   {
-    id: 13,
+    id: 15,
     name: { en: 'Ham Roll', sq: 'Samune me proshute' },
     description: { 
       en: 'Fresh roll with premium ham',
@@ -205,12 +235,12 @@ const menuItems: MenuItem[] = [
       en: ['Fresh roll', 'Ham', 'Cheese', 'Lettuce'],
       sq: ['Samun i freskët', 'Proshutë', 'Djathë', 'Marulë']
     },
-    price: '€4.50',
+    price: '€7.00',
     category: 'fastfood',
     image: '🥖'
   },
   {
-    id: 14,
+    id: 16,
     name: { en: 'Toast', sq: 'Tost' },
     description: { 
       en: 'Grilled toast with cheese and ham',
@@ -220,14 +250,14 @@ const menuItems: MenuItem[] = [
       en: ['Toast bread', 'Cheese', 'Ham', 'Butter'],
       sq: ['Bukë tost', 'Djathë', 'Proshutë', 'Gjalpë']
     },
-    price: '€4.00',
+    price: '€1.50',
     category: 'fastfood',
     image: '🍞'
   },
 
   // Kitchen/Main Dishes
   {
-    id: 15,
+    id: 17,
     name: { en: 'Whole Chicken', sq: 'Një pule me vete' },
     description: { 
       en: 'Whole roasted chicken, perfectly seasoned',
@@ -237,12 +267,12 @@ const menuItems: MenuItem[] = [
       en: ['Whole chicken', 'Herbs', 'Spices', 'Oil'],
       sq: ['Pule e tërë', 'Bimë aromatike', 'Erëza', 'Vaj']
     },
-    price: '€15.00',
+    price: '€6.00',
     category: 'kitchen',
     image: '🍗'
   },
   {
-    id: 16,
+    id: 18,
     name: { en: 'Table Chicken', sq: 'Një pule tavoline' },
     description: { 
       en: 'Chicken prepared for sharing, served family style',
@@ -252,12 +282,12 @@ const menuItems: MenuItem[] = [
       en: ['Chicken', 'Vegetables', 'Rice', 'Sauce'],
       sq: ['Pule', 'Perime', 'Oriz', 'Salcë']
     },
-    price: '€18.00',
+    price: '€8.00',
     category: 'kitchen',
     image: '🍗'
   },
   {
-    id: 17,
+    id: 19,
     name: { en: 'Half Chicken with Sides', sq: 'Gjysme pule garniture' },
     description: { 
       en: 'Half chicken served with side dishes',
@@ -267,12 +297,12 @@ const menuItems: MenuItem[] = [
       en: ['Half chicken', 'Rice', 'Salad', 'Sauce'],
       sq: ['Gjysme pule', 'Oriz', 'Sallatë', 'Salcë']
     },
-    price: '€10.00',
+    price: '€6.00',
     category: 'kitchen',
     image: '🍗'
   },
   {
-    id: 18,
+    id: 20,
     name: { en: '10 Meatballs (Qebap)', sq: '10 qofte qebap' },
     description: { 
       en: 'Traditional Albanian grilled meatballs',
@@ -282,12 +312,12 @@ const menuItems: MenuItem[] = [
       en: ['Ground meat', 'Onions', 'Spices', 'Breadcrumbs'],
       sq: ['Mish i grirë', 'Qepë', 'Erëza', 'Thërrime buke']
     },
-    price: '€8.00',
+    price: '€6.00',
     category: 'kitchen',
     image: '🍖'
   },
   {
-    id: 19,
+    id: 21,
     name: { en: '10 Meatballs with Sides', sq: '10 qofte (qebap) me garniture' },
     description: { 
       en: 'Grilled meatballs served with traditional sides',
@@ -297,12 +327,12 @@ const menuItems: MenuItem[] = [
       en: ['Ground meat', 'Onions', 'Rice', 'Salad', 'Bread'],
       sq: ['Mish i grirë', 'Qepë', 'Oriz', 'Sallatë', 'Bukë']
     },
-    price: '€12.00',
+    price: '€8.00',
     category: 'kitchen',
     image: '🍖'
   },
   {
-    id: 20,
+    id: 22,
     name: { en: '5 Meatballs with Sides', sq: '5 qofte garniture' },
     description: { 
       en: 'Five grilled meatballs with side dishes',
@@ -312,12 +342,12 @@ const menuItems: MenuItem[] = [
       en: ['Ground meat', 'Rice', 'Vegetables', 'Bread'],
       sq: ['Mish i grirë', 'Oriz', 'Perime', 'Bukë']
     },
-    price: '€7.00',
+    price: '€6.00',
     category: 'kitchen',
     image: '🍖'
   },
   {
-    id: 21,
+    id: 23,
     name: { en: 'Lamb Chop with Sides', sq: 'Berxolle me garniture' },
     description: { 
       en: 'Tender lamb chop grilled to perfection with sides',
@@ -327,12 +357,12 @@ const menuItems: MenuItem[] = [
       en: ['Lamb chop', 'Rice', 'Vegetables', 'Sauce'],
       sq: ['Berxollë dashi', 'Oriz', 'Perime', 'Salcë']
     },
-    price: '€14.00',
+    price: '€13.00',
     category: 'kitchen',
     image: '🥩'
   },
   {
-    id: 22,
+    id: 24,
     name: { en: 'Chicken Fillet', sq: 'Fileto pule' },
     description: { 
       en: 'Grilled chicken breast fillet',
@@ -342,12 +372,12 @@ const menuItems: MenuItem[] = [
       en: ['Chicken breast', 'Herbs', 'Olive oil', 'Lemon'],
       sq: ['Gjoks pule', 'Bimë aromatike', 'Vaj ulliri', 'Limon']
     },
-    price: '€9.00',
+    price: '€7.00',
     category: 'kitchen',
     image: '🍗'
   },
   {
-    id: 23,
+    id: 25,
     name: { en: 'Grilled Fish', sq: 'Peshk zgare' },
     description: { 
       en: 'Fresh fish grilled with herbs and lemon',
@@ -357,12 +387,12 @@ const menuItems: MenuItem[] = [
       en: ['Fresh fish', 'Lemon', 'Herbs', 'Olive oil'],
       sq: ['Peshk i freskët', 'Limon', 'Erëza', 'Vaj ulliri']
     },
-    price: '€12.00',
+    price: '€13.00',
     category: 'kitchen',
     image: '🐟'
   },
   {
-    id: 24,
+    id: 26,
     name: { en: 'Omelet', sq: 'Omlet' },
     description: { 
       en: 'Fluffy omelet with your choice of fillings',
@@ -372,12 +402,12 @@ const menuItems: MenuItem[] = [
       en: ['Eggs', 'Milk', 'Cheese', 'Herbs', 'Butter'],
       sq: ['Vezë', 'Qumësht', 'Djathë', 'Erëza', 'Gjalpë']
     },
-    price: '€5.00',
+    price: '€3.00',
     category: 'kitchen',
     image: '🍳'
   },
   {
-    id: 25,
+    id: 27,
     name: { en: 'Salad', sq: 'Sallatë' },
     description: { 
       en: 'Fresh mixed salad with seasonal vegetables',
@@ -387,12 +417,12 @@ const menuItems: MenuItem[] = [
       en: ['Lettuce', 'Tomatoes', 'Cucumber', 'Onions', 'Olive oil'],
       sq: ['Marulë', 'Domate', 'Kastravec', 'Qepë', 'Vaj ulliri']
     },
-    price: '€4.00',
+    price: '€5.00',
     category: 'kitchen',
     image: '🥗'
   },
   {
-    id: 26,
+    id: 28,
     name: { en: 'French Fries', sq: 'Patate' },
     description: { 
       en: 'Golden crispy french fries',
@@ -402,12 +432,12 @@ const menuItems: MenuItem[] = [
       en: ['Potatoes', 'Oil', 'Salt'],
       sq: ['Patate', 'Vaj', 'Kripë']
     },
-    price: '€3.00',
+    price: '€2.00',
     category: 'kitchen',
     image: '🍟'
   },
   {
-    id: 27,
+    id: 29,
     name: { en: 'Yogurt Sauce', sq: 'Salcë kosi' },
     description: { 
       en: 'Traditional Albanian yogurt sauce',
@@ -424,7 +454,7 @@ const menuItems: MenuItem[] = [
 
   // Pizza
   {
-    id: 28,
+    id: 30,
     name: { en: 'Margherita', sq: 'Margherita' },
     description: { 
       en: 'Classic pizza with tomato sauce, mozzarella and basil',
@@ -434,12 +464,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Mozzarella', 'Basil', 'Olive oil'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Mozzarella', 'Bozilok', 'Vaj ulliri']
     },
-    price: '€8.00',
+    price: '€5.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 29,
+    id: 31,
     name: { en: 'Ham Pizza', sq: 'Proshute' },
     description: { 
       en: 'Pizza topped with ham and mozzarella cheese',
@@ -449,12 +479,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Ham', 'Mozzarella'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Proshutë', 'Mozzarella']
     },
-    price: '€10.00',
+    price: '€6.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 30,
+    id: 32,
     name: { en: 'Mushroom Pizza', sq: 'Kerpudha' },
     description: { 
       en: 'Pizza with fresh mushrooms and cheese',
@@ -464,12 +494,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Mushrooms', 'Mozzarella'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Kërpudha', 'Mozzarella']
     },
-    price: '€9.00',
+    price: '€7.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 31,
+    id: 33,
     name: { en: 'Capricciosa', sq: 'Kapricoza' },
     description: { 
       en: 'Pizza with ham, mushrooms, artichokes and olives',
@@ -479,12 +509,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Ham', 'Mushrooms', 'Artichokes', 'Olives'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Proshutë', 'Kërpudha', 'Angullore', 'Ullinj']
     },
-    price: '€12.00',
+    price: '€7.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 32,
+    id: 34,
     name: { en: 'Four Seasons', sq: '4 Stinët' },
     description: { 
       en: 'Pizza divided into four sections with different toppings',
@@ -494,12 +524,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Ham', 'Mushrooms', 'Peppers', 'Olives'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Proshutë', 'Kërpudha', 'Spec', 'Ullinj']
     },
-    price: '€13.00',
+    price: '€8.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 33,
+    id: 35,
     name: { en: 'Tuna Pizza', sq: 'Ton' },
     description: { 
       en: 'Pizza topped with tuna and onions',
@@ -509,12 +539,12 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Tuna', 'Onions', 'Mozzarella'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Ton', 'Qepë', 'Mozzarella']
     },
-    price: '€11.00',
+    price: '€8.00',
     category: 'pizza',
     image: '🍕'
   },
   {
-    id: 34,
+    id: 36,
     name: { en: 'Sausage Pizza', sq: 'Suxhuk' },
     description: { 
       en: 'Pizza with Albanian sausage and cheese',
@@ -524,14 +554,14 @@ const menuItems: MenuItem[] = [
       en: ['Pizza dough', 'Tomato sauce', 'Albanian sausage', 'Mozzarella'],
       sq: ['Brumë pice', 'Salcë domatesh', 'Suxhuk shqiptar', 'Mozzarella']
     },
-    price: '€10.50',
+    price: '€9.00',
     category: 'pizza',
     image: '🍕'
   },
 
   // Hot Drinks
   {
-    id: 35,
+    id: 37,
     name: { en: 'Coffee', sq: 'Kafe' },
     description: { 
       en: 'Traditional Albanian coffee',
@@ -546,7 +576,7 @@ const menuItems: MenuItem[] = [
     image: '☕'
   },
   {
-    id: 36,
+    id: 38,
     name: { en: 'Macchiato', sq: 'Makiato' },
     description: { 
       en: 'Espresso with a dollop of steamed milk',
@@ -561,7 +591,7 @@ const menuItems: MenuItem[] = [
     image: '☕'
   },
   {
-    id: 37,
+    id: 39,
     name: { en: 'Large Macchiato', sq: 'Makiato e madhe' },
     description: { 
       en: 'Large size macchiato with extra milk',
@@ -576,7 +606,7 @@ const menuItems: MenuItem[] = [
     image: '☕'
   },
   {
-    id: 38,
+    id: 40,
     name: { en: 'Tea', sq: 'Çaj' },
     description: { 
       en: 'Hot herbal or black tea',
@@ -593,7 +623,7 @@ const menuItems: MenuItem[] = [
 
   // Cold Drinks
   {
-    id: 39,
+    id: 41,
     name: { en: 'Coca Cola', sq: 'Coca Cola' },
     description: { 
       en: 'Classic Coca Cola soft drink',
@@ -608,7 +638,7 @@ const menuItems: MenuItem[] = [
     image: '🥤'
   },
   {
-    id: 40,
+    id: 42,
     name: { en: 'Fanta', sq: 'Fanta' },
     description: { 
       en: 'Orange flavored carbonated drink',
@@ -623,7 +653,7 @@ const menuItems: MenuItem[] = [
     image: '🥤'
   },
   {
-    id: 41,
+    id: 43,
     name: { en: 'Sprite', sq: 'Sprite' },
     description: { 
       en: 'Lemon-lime flavored soft drink',
@@ -638,7 +668,7 @@ const menuItems: MenuItem[] = [
     image: '🥤'
   },
   {
-    id: 42,
+    id: 44,
     name: { en: 'Ivi', sq: 'Ivi' },
     description: { 
       en: 'Albanian fruit juice drink',
@@ -648,12 +678,12 @@ const menuItems: MenuItem[] = [
       en: ['Fruit juice', 'Water', 'Sugar'],
       sq: ['Lëng frutash', 'Ujë', 'Sheqer']
     },
-    price: '€1.50',
+    price: '€1.90',
     category: 'colddrinks',
     image: '🧃'
   },
   {
-    id: 43,
+    id: 45,
     name: { en: 'Sola', sq: 'Sola' },
     description: { 
       en: 'Albanian carbonated soft drink',
@@ -668,7 +698,7 @@ const menuItems: MenuItem[] = [
     image: '🥤'
   },
   {
-    id: 44,
+    id: 46,
     name: { en: 'B52', sq: 'B52' },
     description: { 
       en: 'Energy drink with caffeine',
@@ -683,7 +713,7 @@ const menuItems: MenuItem[] = [
     image: '🥤'
   },
   {
-    id: 45,
+    id: 47,
     name: { en: 'Bravo', sq: 'Bravo' },
     description: { 
       en: 'Fruit flavored juice drink',
@@ -693,12 +723,12 @@ const menuItems: MenuItem[] = [
       en: ['Fruit juice', 'Water', 'Vitamins'],
       sq: ['Lëng frutash', 'Ujë', 'Vitamina']
     },
-    price: '€1.80',
+    price: '€2.50',
     category: 'colddrinks',
     image: '🧃'
   },
   {
-    id: 46,
+    id: 48,
     name: { en: 'Red Bull', sq: 'Red Bull' },
     description: { 
       en: 'Premium energy drink with wings',
@@ -708,12 +738,12 @@ const menuItems: MenuItem[] = [
       en: ['Caffeine', 'Taurine', 'B-vitamins', 'Sugar'],
       sq: ['Kafeinë', 'Taurinë', 'Vitamina B', 'Sheqer']
     },
-    price: '€3.00',
+    price: '€3.50',
     category: 'colddrinks',
     image: '🥤'
   },
   {
-    id: 47,
+    id: 49,
     name: { en: 'Water', sq: 'Ujë' },
     description: { 
       en: 'Pure bottled water',
@@ -728,7 +758,7 @@ const menuItems: MenuItem[] = [
     image: '💧'
   },
   {
-    id: 48,
+    id: 50,
     name: { en: 'Buttermilk', sq: 'Dhallë' },
     description: { 
       en: 'Traditional Albanian buttermilk drink',
@@ -738,14 +768,14 @@ const menuItems: MenuItem[] = [
       en: ['Buttermilk', 'Salt', 'Water'],
       sq: ['Dhallë', 'Kripë', 'Ujë']
     },
-    price: '€1.50',
+    price: '€1.00',
     category: 'colddrinks',
     image: '🥛'
   },
 
   // Alcoholic Drinks
   {
-    id: 49,
+    id: 51,
     name: { en: 'Raki', sq: 'Raki' },
     description: { 
       en: 'Traditional Albanian grape brandy',
@@ -755,12 +785,12 @@ const menuItems: MenuItem[] = [
       en: ['Distilled grapes', 'Water'],
       sq: ['Rrush i distiluar', 'Ujë']
     },
-    price: '€3.00',
+    price: '€1.00',
     category: 'alcohol',
     image: '🥃'
   },
   {
-    id: 50,
+    id: 52,
     name: { en: 'Korca Small', sq: 'Korca e vogël' },
     description: { 
       en: 'Small bottle of Korca beer',
@@ -775,7 +805,7 @@ const menuItems: MenuItem[] = [
     image: '🍺'
   },
   {
-    id: 51,
+    id: 53,
     name: { en: 'Korca Large', sq: 'Korca e madhe' },
     description: { 
       en: 'Large bottle of Korca beer',
@@ -785,12 +815,12 @@ const menuItems: MenuItem[] = [
       en: ['Water', 'Malted barley', 'Hops', 'Yeast'],
       sq: ['Ujë', 'Elb i mbitur', 'Lulushtrydhe', 'Maja']
     },
-    price: '€3.00',
+    price: '€2.50',
     category: 'alcohol',
     image: '🍺'
   },
   {
-    id: 52,
+    id: 54,
     name: { en: 'Peja Beer', sq: 'Peja' },
     description: { 
       en: 'Premium Albanian Peja beer',
@@ -805,7 +835,7 @@ const menuItems: MenuItem[] = [
     image: '🍺'
   },
   {
-    id: 53,
+    id: 55,
     name: { en: 'Peroni', sq: 'Peroni' },
     description: { 
       en: 'Italian premium lager beer',
@@ -815,12 +845,12 @@ const menuItems: MenuItem[] = [
       en: ['Water', 'Malted barley', 'Corn', 'Hops'],
       sq: ['Ujë', 'Elb i mbitur', 'Misër', 'Lulushtrydhe']
     },
-    price: '€3.00',
+    price: '€2.50',
     category: 'alcohol',
     image: '🍺'
   },
   {
-    id: 54,
+    id: 56,
     name: { en: 'Tuborg', sq: 'Tuborg' },
     description: { 
       en: 'Danish pilsner beer',
@@ -830,12 +860,12 @@ const menuItems: MenuItem[] = [
       en: ['Water', 'Malted barley', 'Hops', 'Yeast'],
       sq: ['Ujë', 'Elb i mbitur', 'Lulushtrydhe', 'Maja']
     },
-    price: '€2.80',
+    price: '€2.50',
     category: 'alcohol',
     image: '🍺'
   },
   {
-    id: 55,
+    id: 57,
     name: { en: 'Heineken', sq: 'Heineken' },
     description: { 
       en: 'Dutch premium lager beer',
@@ -845,12 +875,12 @@ const menuItems: MenuItem[] = [
       en: ['Water', 'Malted barley', 'Hops', 'Yeast'],
       sq: ['Ujë', 'Elb i mbitur', 'Lulushtrydhe', 'Maja']
     },
-    price: '€3.50',
+    price: '€3.00',
     category: 'alcohol',
     image: '🍺'
   },
   {
-    id: 56,
+    id: 58,
     name: { en: 'Bavaria 0% Alcohol', sq: 'Bavaria 0% alkol' },
     description: { 
       en: 'Non-alcoholic beer with full taste',
@@ -860,12 +890,12 @@ const menuItems: MenuItem[] = [
       en: ['Water', 'Malted barley', 'Hops', 'Natural flavoring'],
       sq: ['Ujë', 'Elb i mbitur', 'Lulushtrydhe', 'Aroma natyrore']
     },
-    price: '€2.00',
+    price: '€2.50',
     category: 'alcohol',
     image: '🍺'
   },
   {
-    id: 57,
+    id: 59,
     name: { en: '1 Glass of Wine', sq: '1 gotë verë' },
     description: { 
       en: 'Single glass of house wine',
@@ -875,12 +905,12 @@ const menuItems: MenuItem[] = [
       en: ['Red or white wine'],
       sq: ['Verë e kuqe ose e bardhë']
     },
-    price: '€2.50',
+    price: '€2.00',
     category: 'alcohol',
     image: '🍷'
   },
   {
-    id: 58,
+    id: 60,
     name: { en: '1 Liter of Wine', sq: '1 liter verë' },
     description: { 
       en: 'One liter carafe of house wine',
@@ -890,7 +920,7 @@ const menuItems: MenuItem[] = [
       en: ['Red or white wine'],
       sq: ['Verë e kuqe ose e bardhë']
     },
-    price: '€12.00',
+    price: '€7.00',
     category: 'alcohol',
     image: '🍷'
   }
