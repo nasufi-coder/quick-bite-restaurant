@@ -24,7 +24,7 @@ export const translations: Translations = {
   orderNow: { en: 'Order Now', sq: 'Porosit Tani' },
   
   // Menu page
-  menuTitle: { en: 'Our Menu', sq: 'Menyja Jonë' },
+  menuTitle: { en: 'Our Menu', sq: 'Menuja Jonë' },
   categories: {
     en: 'All Categories',
     sq: 'Të Gjitha Kategoritë'
