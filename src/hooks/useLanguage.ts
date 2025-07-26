@@ -47,7 +47,7 @@ export const translations: Translations = {
   
   // Home page features
   fastDelivery: { en: 'Fast Delivery', sq: 'Dorëzim i Shpejtë' },
-  fastDeliveryDesc: { en: 'Quick delivery in 20 minutes', sq: 'Dorëzim i shpejtë në 20 minuta' },
+  fastDeliveryDesc: { en: 'Quick delivery in 10 minutes', sq: 'Dorëzim i shpejtë në 10 minuta' },
   freshIngredients: { en: 'Fresh Ingredients', sq: 'Përbërës të Freskët' },
   freshIngredientsDesc: { en: 'Always fresh, locally sourced', sq: 'Gjithmonë të freskët, me origjinë lokale' },
   expertChefs: { en: 'Expert Chefs', sq: 'Shefit Ekspertë' },
