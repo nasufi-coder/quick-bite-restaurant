@@ -77,8 +77,8 @@ export const translations: Translations = {
   
   // Contact information
   visitUs: { en: 'Visit Us', sq: 'Na Vizitoni' },
-  address: { en: '123 Main Street, Tirana, Albania', sq: 'Rruga Kryesore 123, Tiranë, Shqipëri' },
-  phone: { en: '+355 69 123 4567', sq: '+355 69 123 4567' },
+  address: { en: 'Rruga Pavaresia Durrës, Durrës County', sq: 'Rruga Pavaresia Durrës, Durrës County' },
+  phone: { en: '+355 67 420 1582', sq: '+355 67 420 1582' },
   hours: { en: 'Mon-Sun: 10:00 AM - 11:00 PM', sq: 'Hën-Die: 10:00 - 23:00' },
 
   // Common
