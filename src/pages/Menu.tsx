@@ -18,12 +18,12 @@ const menuItems: MenuItem[] = [
     id: 1,
     name: { en: 'Sufllaqe', sq: 'Sufllaqe' },
     description: { 
-      en: 'Traditional Albanian layered pastry with meat and vegetables',
-      sq: 'Byreku tradicional shqiptar me shtresa me mish dhe perime'
+      en: 'Souvlaki is a traditional Greek food commonly made of pork, shaped into a kebab on a skewer.',
+      sq: 'Suvlaki është një ushqim tradicional grek që zakonisht përgatitet me mish derri, i cili formohet në formë kebab-i në hell.'
     },
     ingredients: { 
-      en: ['Phyllo dough', 'Ground meat', 'Onions', 'Eggs', 'Oil'],
-      sq: ['Brumë filo', 'Mish i grirë', 'Qepë', 'Vezë', 'Vaj']
+      en: ['Pita bread', 'Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
+      sq: ['Pite', 'Mish i grirë', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
     },
     price: {
       en: '€3.00',
@@ -348,8 +348,8 @@ const menuItems: MenuItem[] = [
       sq: 'Gjysme pule e shërbyer me garniture'
     },
     ingredients: { 
-      en: ['Half chicken', 'Rice', 'Salad', 'Sauce'],
-      sq: ['Gjysme pule', 'Oriz', 'Sallatë', 'Salcë']
+      en: ['Half chicken', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
+      sq: ['Gjysme pule', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
     },
     price: {
       en: '€6.00',
@@ -384,8 +384,8 @@ const menuItems: MenuItem[] = [
       sq: 'Qofte në zgjarë të shërbyera me garniture tradicionale'
     },
     ingredients: { 
-      en: ['Ground meat', 'Onions', 'Rice', 'Salad', 'Bread'],
-      sq: ['Mish i grirë', 'Qepë', 'Oriz', 'Sallatë', 'Bukë']
+      en: ['Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
+      sq: ['Mish i grirë', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
     },
     price: {
       en: '€8.00',
@@ -402,8 +402,8 @@ const menuItems: MenuItem[] = [
       sq: 'Pesë qofte në zgjarë me garniture'
     },
     ingredients: { 
-      en: ['Ground meat', 'Rice', 'Vegetables', 'Bread'],
-      sq: ['Mish i grirë', 'Oriz', 'Perime', 'Bukë']
+      en: ['Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
+      sq: ['Mish i grirë', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
     },
     price: {
       en: '€6.00',
@@ -420,8 +420,8 @@ const menuItems: MenuItem[] = [
       sq: 'Berxollë dashi e brishtë në zgjarë me garniture'
     },
     ingredients: { 
-      en: ['Lamb chop', 'Rice', 'Vegetables', 'Sauce'],
-      sq: ['Berxollë dashi', 'Oriz', 'Perime', 'Salcë']
+      en: ['Lamb chop', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
+      sq: ['Berxollë dashi', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
     },
     price: {
       en: '€13.00',
