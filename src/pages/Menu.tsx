@@ -27,7 +27,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.50',
     category: 'fastfood',
-    image: '🥧'
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 2,
@@ -42,7 +42,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€5.00',
     category: 'fastfood',
-    image: '🌯'
+    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 3,
@@ -57,7 +57,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€5.50',
     category: 'fastfood',
-    image: '🌯'
+    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 4,
@@ -72,7 +72,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'fastfood',
-    image: '🌭'
+    image: 'https://images.unsplash.com/photo-1612392061787-2cd149de6915?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 5,
@@ -87,7 +87,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.00',
     category: 'fastfood',
-    image: '🥪'
+    image: 'https://images.unsplash.com/photo-1567234669003-dce7a7a88821?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 6,
@@ -102,7 +102,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€6.00',
     category: 'fastfood',
-    image: '🍔'
+    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 7,
@@ -117,7 +117,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€7.50',
     category: 'fastfood',
-    image: '🍗'
+    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 8,
@@ -132,7 +132,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€6.50',
     category: 'fastfood',
-    image: '🌯'
+    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 9,
@@ -147,7 +147,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€7.00',
     category: 'fastfood',
-    image: '🍔'
+    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 10,
@@ -162,7 +162,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.50',
     category: 'fastfood',
-    image: '🥖'
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 11,
@@ -177,7 +177,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€5.00',
     category: 'fastfood',
-    image: '🥖'
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 12,
@@ -192,7 +192,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.50',
     category: 'fastfood',
-    image: '🥖'
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 13,
@@ -207,7 +207,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.50',
     category: 'fastfood',
-    image: '🥖'
+    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 14,
@@ -222,7 +222,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.00',
     category: 'fastfood',
-    image: '🍞'
+    image: 'https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=300&h=200&fit=crop&auto=format'
   },
 
   // Kitchen/Main Dishes
@@ -239,7 +239,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€15.00',
     category: 'kitchen',
-    image: '🍗'
+    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 16,
@@ -254,7 +254,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€18.00',
     category: 'kitchen',
-    image: '🍗'
+    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 17,
@@ -269,7 +269,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€10.00',
     category: 'kitchen',
-    image: '🍗'
+    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 18,
@@ -284,7 +284,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€8.00',
     category: 'kitchen',
-    image: '🍖'
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 19,
@@ -299,7 +299,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€12.00',
     category: 'kitchen',
-    image: '🍖'
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 20,
@@ -314,7 +314,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€7.00',
     category: 'kitchen',
-    image: '🍖'
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 21,
@@ -329,7 +329,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€14.00',
     category: 'kitchen',
-    image: '🥩'
+    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 22,
@@ -344,7 +344,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€9.00',
     category: 'kitchen',
-    image: '🍗'
+    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 23,
@@ -359,7 +359,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€12.00',
     category: 'kitchen',
-    image: '🐟'
+    image: 'https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 24,
@@ -374,7 +374,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€5.00',
     category: 'kitchen',
-    image: '🍳'
+    image: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 25,
@@ -389,7 +389,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€4.00',
     category: 'kitchen',
-    image: '🥗'
+    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 26,
@@ -404,7 +404,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'kitchen',
-    image: '🍟'
+    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 27,
@@ -419,7 +419,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'kitchen',
-    image: '🥛'
+    image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop&auto=format'
   },
 
   // Pizza
@@ -436,7 +436,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€8.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 29,
@@ -451,7 +451,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€10.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 30,
@@ -466,7 +466,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€9.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 31,
@@ -481,7 +481,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€12.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 32,
@@ -496,7 +496,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€13.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 33,
@@ -511,7 +511,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€11.00',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 34,
@@ -526,7 +526,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€10.50',
     category: 'pizza',
-    image: '🍕'
+    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
   },
 
   // Hot Drinks
@@ -543,7 +543,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.00',
     category: 'hotdrinks',
-    image: '☕'
+    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 36,
@@ -558,7 +558,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.50',
     category: 'hotdrinks',
-    image: '☕'
+    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 37,
@@ -573,7 +573,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'hotdrinks',
-    image: '☕'
+    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 38,
@@ -588,7 +588,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.00',
     category: 'hotdrinks',
-    image: '🍵'
+    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=200&fit=crop&auto=format'
   },
 
   // Cold Drinks
@@ -605,7 +605,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 40,
@@ -620,7 +620,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 41,
@@ -635,7 +635,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 42,
@@ -650,7 +650,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.50',
     category: 'colddrinks',
-    image: '🧃'
+    image: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 43,
@@ -665,7 +665,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.50',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 44,
@@ -680,7 +680,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.50',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 45,
@@ -695,7 +695,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.80',
     category: 'colddrinks',
-    image: '🧃'
+    image: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 46,
@@ -710,7 +710,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'colddrinks',
-    image: '🥤'
+    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 47,
@@ -725,7 +725,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.00',
     category: 'colddrinks',
-    image: '💧'
+    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 48,
@@ -740,7 +740,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€1.50',
     category: 'colddrinks',
-    image: '🥛'
+    image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop&auto=format'
   },
 
   // Alcoholic Drinks
@@ -757,7 +757,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'alcohol',
-    image: '🥃'
+    image: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 50,
@@ -772,7 +772,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 51,
@@ -787,7 +787,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 52,
@@ -802,7 +802,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.50',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 53,
@@ -817,7 +817,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.00',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 54,
@@ -832,7 +832,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.80',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 55,
@@ -847,7 +847,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€3.50',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 56,
@@ -862,7 +862,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.00',
     category: 'alcohol',
-    image: '🍺'
+    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 57,
@@ -877,7 +877,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€2.50',
     category: 'alcohol',
-    image: '🍷'
+    image: 'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=300&h=200&fit=crop&auto=format'
   },
   {
     id: 58,
@@ -892,7 +892,7 @@ const menuItems: MenuItem[] = [
     },
     price: '€12.00',
     category: 'alcohol',
-    image: '🍷'
+    image: 'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=300&h=200&fit=crop&auto=format'
   }
 ];
 
@@ -959,10 +959,11 @@ const Menu = () => {
             whileHover={{ scale: 1.03, y: -5 }}
           >
             <div className="menu-item-image">
-              <motion.span
+              <motion.img
+                src={item.image}
+                alt={item.name[language]}
                 animate={{ 
-                  rotate: [0, 10, 0, -10, 0],
-                  scale: [1, 1.1, 1]
+                  scale: [1, 1.05, 1]
                 }}
                 transition={{ 
                   duration: 2,
@@ -970,9 +971,8 @@ const Menu = () => {
                   ease: "easeInOut",
                   delay: index * 0.2
                 }}
-              >
-                {item.image}
-              </motion.span>
+                whileHover={{ scale: 1.1 }}
+              />
             </div>
             
             <div className="menu-item-content">
