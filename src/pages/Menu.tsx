@@ -30,7 +30,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300&h=200&fit=crop&auto=format'
+    image: 'https://agroweb.org/wp-content/uploads/2018/09/sufllaqe902.jpg'
   },
   {
     id: 2,
