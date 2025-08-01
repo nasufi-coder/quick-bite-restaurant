@@ -48,7 +48,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
+    image: 'https://cdn-mamafatma.b-cdn.net/wp-content/uploads/2023/10/3-27.jpg'
   },
   {
     id: 3,
@@ -884,7 +884,7 @@ const menuItems: MenuItem[] = [
       sq: '350 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/8.4_floz_can_of_Red_Bull_Energy_Drink.jpg/1200px-8.4_floz_can_of_Red_Bull_Energy_Drink.jpg'
   },
   {
     id: 49,
@@ -902,7 +902,7 @@ const menuItems: MenuItem[] = [
       sq: '100 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300&h=200&fit=crop&auto=format'
+    image: 'https://bli.ecomarket.al/wp-content/uploads/2020/12/SM03760.jpg'
   },
   {
     id: 50,
@@ -940,7 +940,7 @@ const menuItems: MenuItem[] = [
       sq: '100 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=300&h=200&fit=crop&auto=format'
+    image: 'https://premium1.al/wp-content/uploads/2021/05/raki-rrushi-origjinale-shqiptare-e-bere-vete.jpg'
   },
   {
     id: 52,
@@ -958,7 +958,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://smakahoreca.al/wp-content/uploads/2022/10/bjonde.jpg'
   },
   {
     id: 53,
@@ -976,7 +976,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://smakahoreca.al/wp-content/uploads/2022/10/bjonde.jpg'
   },
   {
     id: 54,
@@ -994,7 +994,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.megateksa.com/media/catalog/product/2/7/270163_1.jpg'
   },
   {
     id: 55,
@@ -1012,7 +1012,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://bigmarketcitypark.com/wp-content/uploads/2020/04/80067955.jpg'
   },
   {
     id: 56,
@@ -1030,7 +1030,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.bell-italia.com/image/cache/catalog/products/Tuborg-Birra-Cl.66-Vol.5%C2%B0-1-464x464.jpg'
   },
   {
     id: 57,
@@ -1048,7 +1048,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://shop.spar.al/wp-content/uploads/2022/02/HNK_BOT_033.jpg'
   },
   {
     id: 58,
@@ -1066,7 +1066,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1608270586620-248524c67de9?w=300&h=200&fit=crop&auto=format'
+    image: 'https://bigmarketcitypark.com/wp-content/uploads/2020/07/8714800011426.jpg'
   },
   {
     id: 59,
@@ -1084,7 +1084,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.qulinaryessentials.com.my/image/qulinaryessentials/image/cache/data/all_product_images/product-430/Ocean%20Classic%20Red%20Wine%201-1000x1000.jpg'
   },
   {
     id: 60,
@@ -1102,7 +1102,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'alcohol',
-    image: 'https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?w=300&h=200&fit=crop&auto=format'
+    image: 'https://i5.walmartimages.com/seo/Wine-decanter-1100ml-37-2-ounce-red-wine-decanter-hand-blown-lead-free-crystal-bottle-suitable-small-decanters-white-red-wine-elegant-design-easy-pou_be7dc772-4538-4c4d-a500-b3b688ba3ebc.4d849738e95ca08ca39e0d370bcb3428.jpeg'
   }
 ];
 
