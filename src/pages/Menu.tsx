@@ -84,7 +84,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1612392061787-2cd149de6915?w=300&h=200&fit=crop&auto=format'
+    image: 'https://media.cnn.com/api/v1/images/stellar/prod/210826215046-hotdog-stock.jpg?q=x_3,y_98,h_1684,w_2993,c_crop/h_833,w_1480'
   },
   {
     id: 5,
