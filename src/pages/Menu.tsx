@@ -138,7 +138,7 @@ const menuItems: MenuItem[] = [
       sq: '350 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.savoryflow.com/wp-content/uploads/2025/05/Chicken-Nuggets-and-Fries.webp'
   },
   {
     id: 8,
@@ -156,7 +156,7 @@ const menuItems: MenuItem[] = [
       sq: '500 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
+    image: 'https://pekis.net/sites/default/files/styles/325x325/public/2025-04/Shawarma.webp?itok=VFvT5lPE'
   },
   {
     id: 9,
