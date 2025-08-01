@@ -428,7 +428,7 @@ const menuItems: MenuItem[] = [
       sq: '1300 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1546833999-b9f581a1996d?w=300&h=200&fit=crop&auto=format'
+    image: 'https://img.freepik.com/premium-photo/lamb-chop-with-french-fries-served-dish-side-view-black-background-fast-food_689047-1888.jpg'
   },
   {
     id: 24,
@@ -446,7 +446,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
+    image: 'https://previews.123rf.com/images/stockfotocz/stockfotocz2002/stockfotocz200200037/141253929-fast-food-chicken-breast-strips-and-french-fries.jpg'
   },
   {
     id: 25,
@@ -464,7 +464,7 @@ const menuItems: MenuItem[] = [
       sq: '1300 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1574781330855-d0db8cc6a79c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.foodandwine.com/thmb/Sj_GFG_ln6ls7HGIoSiqb67-YRw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lemon-Stuffed-Grilled-Branzino-FT-RECIPE0324-6d0a73fe0ad743309605df37066a9191.jpg'
   },
   {
     id: 26,
@@ -482,7 +482,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?w=300&h=200&fit=crop&auto=format'
+    image: 'https://msmarket.coop/wp-content/uploads/omlete.jpg'
   },
   {
     id: 27,
@@ -500,7 +500,7 @@ const menuItems: MenuItem[] = [
       sq: '500 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.eatthis.com/wp-content/uploads/sites/4/2023/04/panera-southwest-caesar-salad.jpg?quality=82&strip=1'
   },
   {
     id: 28,
@@ -518,7 +518,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1573080496219-bb080dd4f877?w=300&h=200&fit=crop&auto=format'
+    image: 'https://images.squarespace-cdn.com/content/v1/5e3c4a2dede14863060c491e/1585533603561-ESYN4H8M1706X22VN06Z/fries.jpg'
   },
   {
     id: 29,
