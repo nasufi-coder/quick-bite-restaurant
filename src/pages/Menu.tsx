@@ -264,7 +264,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.spendwithpennies.com/wp-content/uploads/2022/04/SWP-Update-Grilled-Cheese-Roll-Ups-38.jpg'
   },
   {
     id: 15,
@@ -282,7 +282,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.kawalingpinoy.com/wp-content/uploads/2019/11/ham-cheese-bread-rolls-4.jpg'
   },
   {
     id: 16,
@@ -300,7 +300,7 @@ const menuItems: MenuItem[] = [
       sq: '150 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1549931319-a545dcf3bc73?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.dillons.com/content/v2/binary/image/imageset/french_toasted-ham_sandwiches--28_french-toasted-ham-sandwiches_p12-recipe-reshoots_p_23-tkc-0188_b-copy.jpg'
   },
 
   // Kitchen/Main Dishes
