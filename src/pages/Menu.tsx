@@ -18,8 +18,8 @@ const menuItems: MenuItem[] = [
     id: 1,
     name: { en: 'Sufllaqe', sq: 'Sufllaqe' },
     description: { 
-      en: 'Souvlaki is a traditional Greek food commonly made of pork, shaped into a kebab on a skewer.',
-      sq: 'Suvlaki është një ushqim tradicional grek që zakonisht përgatitet me mish derri, i cili formohet në formë kebab-i në hell.'
+      en: 'Souvlaki is a traditional Greek food commonly made of chicken, shaped into a kebab on a skewer.',
+      sq: 'Suvlaki është një ushqim tradicional grek që zakonisht përgatitet me mish pule, i cili formohet në formë kebab-i në hell.'
     },
     ingredients: { 
       en: ['Pita bread', 'Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
