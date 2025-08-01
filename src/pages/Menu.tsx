@@ -320,7 +320,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
+    image: 'https://assets.epicurious.com/photos/62f16ed5fe4be95d5a460eed/16:9/w_5803,h_3264,c_limit/RoastChicken_RECIPE_080420_37993.jpg'
   },
   {
     id: 18,
@@ -338,7 +338,7 @@ const menuItems: MenuItem[] = [
       sq: '800 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
+    image: 'https://img.freepik.com/premium-photo/half-roasted-chicken-piri-piri-with-french-fries-top-view_266870-14673.jpg'
   },
   {
     id: 19,
@@ -356,7 +356,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1548944172-de6c6b3c2b51?w=300&h=200&fit=crop&auto=format'
+    image: 'https://scontent.ftia6-1.fna.fbcdn.net/v/t1.6435-9/164007315_289523769252827_6934326517739001319_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3a1ebe&_nc_ohc=3qGdcIVeEFQQ7kNvwGQaGod&_nc_oc=AdnmLnDc6jPD9wgqfYSKZYYOasOkK0zES6T6BollJPNjtMep-3-ImOjvm_bC0Mrfe2Y&_nc_zt=23&_nc_ht=scontent.ftia6-1.fna&_nc_gid=JBzjq1_c-jBUmDtZaxE_EQ&oh=00_AfSWmWX3TBqtCs19cM8L6ig1ujPwN0fMUMPEuyhuFtB2xw&oe=68B440D8'
   },
   {
     id: 20,
@@ -374,7 +374,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
+    image: 'https://static01.nyt.com/images/2025/05/29/multimedia/SL-Adana-Meatballs-platter-vhcf/SL-Adana-Meatballs-platter-vhcf-threeByTwoMediumAt2X-v2.jpg'
   },
   {
     id: 21,
@@ -392,7 +392,7 @@ const menuItems: MenuItem[] = [
       sq: '800 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
+    image: 'https://souvlakiforthesoul.com/wp-content/uploads/2021/03/keftedes-Greek-meatballs-featured.jpg'
   },
   {
     id: 22,
@@ -410,7 +410,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=300&h=200&fit=crop&auto=format'
+    image: 'https://souvlakiforthesoul.com/wp-content/uploads/2021/03/keftedes-Greek-meatballs-featured.jpg'
   },
   {
     id: 23,
