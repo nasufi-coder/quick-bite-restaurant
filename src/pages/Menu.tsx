@@ -30,7 +30,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: '🌯'
+    image: '🥙'
   },
   {
     id: 2,
@@ -138,7 +138,7 @@ const menuItems: MenuItem[] = [
       sq: '350 Lek'
     },
     category: 'fastfood',
-    image: '🍗'
+    image: '🍗🐔🍟'
   },
   {
     id: 8,
@@ -192,7 +192,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'fastfood',
-    image: '🌯'
+    image: '🥙'
   },
   {
     id: 11,
@@ -374,7 +374,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: '🍖'
+    image: '🧆'
   },
   {
     id: 21,
@@ -392,7 +392,7 @@ const menuItems: MenuItem[] = [
       sq: '800 Lek'
     },
     category: 'kitchen',
-    image: '🍖'
+    image: '🧆'
   },
   {
     id: 22,
@@ -410,7 +410,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'kitchen',
-    image: '🍖'
+    image: '🧆'
   },
   {
     id: 23,
