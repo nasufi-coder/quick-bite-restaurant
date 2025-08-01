@@ -174,7 +174,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=300&h=200&fit=crop&auto=format'
+    image: 'https://lirp.cdn-website.com/fff642e4/dms3rep/multi/opt/Greensboro-Burgers-1-640w.webp'
   },
   {
     id: 10,
@@ -192,7 +192,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'fastfood',
-    image: '🥙'
+    image: 'https://agroweb.org/wp-content/uploads/2018/09/sufllaqe902.jpg'
   },
   {
     id: 11,
@@ -210,7 +210,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'fastfood',
-    image: '🌯'
+    image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZpNWt4Z7PzKlQ2XpNrcL_vCHyyZ9UbG0QCZ24_WcPJCGK3mPwKjdQxFSV-VzP7zWKFvvtDmsFG9WyZwFdxSELPFTD18qWCYRg9FFAROVxOJCu2aP3DpX5kVhyuctNpCpCFkB_ETUHzxhW/s1600/C8EEC23B-22E8-4C98-B073-C54478A478DF.jpeg'
   },
   {
     id: 12,
@@ -228,7 +228,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
+    image: 'https://madscookhouse.com/wp-content/uploads/2021/02/Chicken-Kathi-Roll-500x500.jpg'
   },
   {
     id: 13,
@@ -246,7 +246,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1509440159596-0249088772ff?w=300&h=200&fit=crop&auto=format'
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvwAIcB4Ayazy960YPh2PiJWkTTsheTXjTg&s'
   },
   {
     id: 14,
