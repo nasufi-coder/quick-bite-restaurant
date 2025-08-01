@@ -11,8 +11,8 @@ interface Translations {
 
 export const translations: Translations = {
   // Navigation
-  home: { en: 'Home', sq: 'Ballina' },
-  menu: { en: 'Menu', sq: 'Meny' },
+  home: { en: 'Home', sq: 'Faqja e pare' },
+  menu: { en: 'Menu', sq: 'Menu' },
   about: { en: 'About', sq: 'Rreth Nesh' },
   
   // Home page
@@ -24,7 +24,7 @@ export const translations: Translations = {
   orderNow: { en: 'Order Now', sq: 'Porosit Tani' },
   
   // Menu page
-  menuTitle: { en: 'Our Menu', sq: 'Menyja Jonë' },
+  menuTitle: { en: 'Our Menu', sq: 'Menuja Jonë' },
   categories: {
     en: 'All Categories',
     sq: 'Të Gjitha Kategoritë'
@@ -47,7 +47,7 @@ export const translations: Translations = {
   
   // Home page features
   fastDelivery: { en: 'Fast Delivery', sq: 'Dorëzim i Shpejtë' },
-  fastDeliveryDesc: { en: 'Quick delivery in 20 minutes', sq: 'Dorëzim i shpejtë në 20 minuta' },
+  fastDeliveryDesc: { en: 'Quick delivery in 10 minutes', sq: 'Dorëzim i shpejtë në 10 minuta' },
   freshIngredients: { en: 'Fresh Ingredients', sq: 'Përbërës të Freskët' },
   freshIngredientsDesc: { en: 'Always fresh, locally sourced', sq: 'Gjithmonë të freskët, me origjinë lokale' },
   expertChefs: { en: 'Expert Chefs', sq: 'Shefit Ekspertë' },
@@ -77,8 +77,8 @@ export const translations: Translations = {
   
   // Contact information
   visitUs: { en: 'Visit Us', sq: 'Na Vizitoni' },
-  address: { en: '123 Main Street, Tirana, Albania', sq: 'Rruga Kryesore 123, Tiranë, Shqipëri' },
-  phone: { en: '+355 69 123 4567', sq: '+355 69 123 4567' },
+  address: { en: 'Rruga Pavaresia Durrës, Durrës County', sq: 'Rruga Pavaresia Durrës, Durrës County' },
+  phone: { en: '+355 67 420 1582', sq: '+355 67 420 1582' },
   hours: { en: 'Mon-Sun: 10:00 AM - 11:00 PM', sq: 'Hën-Die: 10:00 - 23:00' },
 
   // Common

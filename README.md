@@ -108,4 +108,4 @@ Language switching is instant without page reload thanks to React Context.
 
 ---
 
-© 2024 Quick Bite Restaurant. All rights reserved.
+© 2004 Quick Bite Restaurant. All rights reserved.

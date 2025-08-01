@@ -11,7 +11,7 @@ const Footer = () => {
     >
       <div className="footer-content">
         <div className="footer-text">
-          <p>&copy; 2024 Quick Bite Restaurant. All rights reserved.</p>
+          <p>&copy; 2004 Quick Bite Restaurant. All rights reserved.</p>
         </div>
         <div className="footer-credit">
           <p>
