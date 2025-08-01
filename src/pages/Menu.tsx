@@ -684,7 +684,7 @@ const menuItems: MenuItem[] = [
       sq: '100 Lek'
     },
     category: 'hotdrinks',
-    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
+    image: 'https://images.getrecipekit.com/20230414194230-espresso-cup-with-coffee-beans.jpg?width=650&quality=90&'
   },
   {
     id: 38,
@@ -702,7 +702,7 @@ const menuItems: MenuItem[] = [
       sq: '150 Lek'
     },
     category: 'hotdrinks',
-    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
+    image: 'https://roastercoffees.com/wp-content/uploads/2021/05/Espresso-Macchiato-Recipe.webp'
   },
   {
     id: 39,
@@ -720,7 +720,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'hotdrinks',
-    image: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=300&h=200&fit=crop&auto=format'
+    image: 'https://staresso.com/cdn/shop/articles/difference_between_espresso_and_cappuccino.png?v=1721125844'
   },
   {
     id: 40,
@@ -738,7 +738,7 @@ const menuItems: MenuItem[] = [
       sq: '100 Lek'
     },
     category: 'hotdrinks',
-    image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.verywellhealth.com/thmb/wOpYMxG1V_VxYcp4iJRmxRO4lZc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-693893647-588d21e413dd411cb1f2b0a0ea3e02da.jpg'
   },
 
   // Cold Drinks
@@ -758,7 +758,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://t3.ftcdn.net/jpg/07/29/63/02/360_F_729630262_7hAna5MDjwAd0vAmU3v25u2v3jBaZw8A.jpg'
   },
   {
     id: 42,
@@ -776,7 +776,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.beigelbake.co.uk/cdn/shop/products/0041_35_FantaOption2.jpg?v=1675628636'
   },
   {
     id: 43,
@@ -794,7 +794,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://m.media-amazon.com/images/I/51et8Od6cUL.jpg'
   },
   {
     id: 44,
@@ -812,7 +812,7 @@ const menuItems: MenuItem[] = [
       sq: '190 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?w=300&h=200&fit=crop&auto=format'
+    image: 'https://freshalbmarket.co.uk/436-medium_default/ivi-orange-soda-drink-330ml-out-of-stock.jpg'
   },
   {
     id: 45,
@@ -830,7 +830,7 @@ const menuItems: MenuItem[] = [
       sq: '150 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://maxiks.shop/storage/2019/05/3838999051225.png'
   },
   {
     id: 46,
@@ -848,7 +848,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1527960471264-932f39eb5b1c?w=300&h=200&fit=crop&auto=format'
+    image: 'https://i0.wp.com/digitalcity.al/wp-content/uploads/2024/07/b52-energy-250ml-1.jpg?fit=1200%2C1200&ssl=1'
   },
   {
     id: 47,
@@ -866,7 +866,7 @@ const menuItems: MenuItem[] = [
       sq: '250 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1544145945-f90425340c7e?w=300&h=200&fit=crop&auto=format'
+    image: 'https://bigmarketcitypark.com/wp-content/uploads/2020/04/90087660.jpg'
   },
   {
     id: 48,
