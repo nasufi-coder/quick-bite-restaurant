@@ -542,7 +542,7 @@ const menuItems: MenuItem[] = [
   // Pizza
   {
     id: 30,
-    name: { en: 'Margherita', sq: 'Margherita' },
+    name: { en: 'Margherita', sq: 'Margarita' },
     description: { 
       en: 'Classic pizza with tomato sauce, mozzarella and basil',
       sq: 'Pica klasike me salcë domatesh, mozzarella dhe bozilok'
@@ -574,7 +574,7 @@ const menuItems: MenuItem[] = [
       sq: '600 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://static.toiimg.com/thumb/61793317.cms?width=1200&height=900'
   },
   {
     id: 32,
@@ -592,7 +592,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.savingdessert.com/wp-content/uploads/2024/05/Mushroom-Pizza-13.jpg'
   },
   {
     id: 33,
@@ -610,7 +610,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://cdn.tasteatlas.com/images/dishes/6b28b438a3b64a7e9fca9081c89f07ff.jpg'
   },
   {
     id: 34,
@@ -628,7 +628,7 @@ const menuItems: MenuItem[] = [
       sq: '800 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://assets.wsimgs.com/wsimgs/ab/images/dp/recipe/202512/0003/img493l.jpg'
   },
   {
     id: 35,
@@ -646,7 +646,7 @@ const menuItems: MenuItem[] = [
       sq: '800 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://skinnyspatula.com/wp-content/uploads/2019/12/Tuna-Pizza-with-Red-Onion-and-Black-Olives4.jpg'
   },
   {
     id: 36,
@@ -664,7 +664,7 @@ const menuItems: MenuItem[] = [
       sq: '900 Lek'
     },
     category: 'pizza',
-    image: 'https://images.unsplash.com/photo-1513104890138-7c749659a591?w=300&h=200&fit=crop&auto=format'
+    image: 'https://cookingwithcarbs.com/wp-content/uploads/2021/06/spicy-sausage-pizza-final8-min.jpg'
   },
 
   // Hot Drinks
