@@ -330,8 +330,8 @@ const menuItems: MenuItem[] = [
       sq: 'Pule e përgatitur për ndarje, e shërbyer në stil familjar'
     },
     ingredients: { 
-      en: ['Chicken', 'Vegetables', 'Rice', 'Sauce'],
-      sq: ['Pule', 'Perime', 'Oriz', 'Salcë']
+      en: ['Chicken', 'Vegetables', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Xaxiki', 'Spice'],
+      sq: ['Pule', 'Perime', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Xaxiki', 'Erëza']
     },
     price: {
       en: '€8.00',
