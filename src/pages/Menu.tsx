@@ -446,7 +446,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'kitchen',
-    image: 'https://previews.123rf.com/images/stockfotocz/stockfotocz2002/stockfotocz200200037/141253929-fast-food-chicken-breast-strips-and-french-fries.jpg'
+    image: 'https://cdn.apartmenttherapy.info/image/upload/f_jpg,q_auto:eco,c_fill,g_auto,w_1500,ar_4:3/k%2FPhoto%2FRecipes%2F2024-06-grilled-chicken-breast%2Fgrilled-chicken-breast-057'
   },
   {
     id: 25,
