@@ -22,8 +22,8 @@ const menuItems: MenuItem[] = [
       sq: 'Suvlaki është një ushqim tradicional grek që zakonisht përgatitet me mish pule, i cili formohet në formë kebab-i në hell.'
     },
     ingredients: { 
-      en: ['Pita bread', 'Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Sauce', 'Spice'],
-      sq: ['Pite', 'Mish i grirë', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Salcë', 'Erëza']
+      en: ['Pita bread', 'Ground meat', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Xaxiki', 'Spice'],
+      sq: ['Pite', 'Mish i grirë', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Xaxiki', 'Erëza']
     },
     price: {
       en: '€3.00',
@@ -48,7 +48,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: 'https://cdn-mamafatma.b-cdn.net/wp-content/uploads/2023/10/3-27.jpg'
+    image: 'https://www.hamburg.com/resource/image/1022230/landscape_ratio16x9/1240/697/bdea4a883c31d6174167b987f85e03dd/FC88BD5D6564CA345F579EA6A3B5B25B/doener-pic.jpg'
   },
   {
     id: 3,
@@ -66,7 +66,7 @@ const menuItems: MenuItem[] = [
       sq: '450 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1529006557810-274b9b2fc783?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.halalorigins.com/media/origins-of-the-infamous-chicken-shawarma1.jpg'
   },
   {
     id: 4,
@@ -84,7 +84,7 @@ const menuItems: MenuItem[] = [
       sq: '300 Lek'
     },
     category: 'fastfood',
-    image: 'https://media.cnn.com/api/v1/images/stellar/prod/210826215046-hotdog-stock.jpg?q=x_3,y_98,h_1684,w_2993,c_crop/h_833,w_1480'
+    image: 'https://www.seriouseats.com/thmb/Ux0hUsEXRt7Mhp8v4A5bIENNMXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__07__20130716-hot-dog-bun-taste-test-8-2ae9024fd3d04bca9937bb79f5862e9a.jpg'
   },
   {
     id: 5,
@@ -102,7 +102,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'fastfood',
-    image: 'https://images.unsplash.com/photo-1567234669003-dce7a7a88821?w=300&h=200&fit=crop&auto=format'
+    image: 'https://www.corriecooks.com/wp-content/uploads/2023/08/Deli-Sandwiches.jpg'
   },
   {
     id: 6,
@@ -228,7 +228,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://madscookhouse.com/wp-content/uploads/2021/02/Chicken-Kathi-Roll-500x500.jpg'
+    image: 'https://www.takeaway.com/bg/foodwiki/uploads/sites/9/2019/09/calzone_2-1080x960.jpg'
   },
   {
     id: 13,
@@ -246,7 +246,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwvwAIcB4Ayazy960YPh2PiJWkTTsheTXjTg&s'
+    image: 'https://www.takeaway.com/bg/foodwiki/uploads/sites/9/2019/09/calzone_2-1080x960.jpg'
   },
   {
     id: 14,
@@ -264,7 +264,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://www.spendwithpennies.com/wp-content/uploads/2022/04/SWP-Update-Grilled-Cheese-Roll-Ups-38.jpg'
+    image: 'https://www.takeaway.com/bg/foodwiki/uploads/sites/9/2019/09/calzone_2-1080x960.jpg'
   },
   {
     id: 15,
@@ -282,7 +282,7 @@ const menuItems: MenuItem[] = [
       sq: '700 Lek'
     },
     category: 'fastfood',
-    image: 'https://www.kawalingpinoy.com/wp-content/uploads/2019/11/ham-cheese-bread-rolls-4.jpg'
+    image: 'https://www.takeaway.com/bg/foodwiki/uploads/sites/9/2019/09/calzone_2-1080x960.jpg'
   },
   {
     id: 16,
