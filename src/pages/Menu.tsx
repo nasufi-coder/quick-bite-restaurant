@@ -40,8 +40,8 @@ const menuItems: MenuItem[] = [
       sq: 'Mish në stil turk i pjekur në rrotull, i shërbyer në bukë pite'
     },
     ingredients: { 
-      en: ['Lamb/Chicken meat', 'Pita bread', 'Onions', 'Tomatoes', 'Sauce'],
-      sq: ['Mish dashi/pule', 'Bukë pite', 'Qepë', 'Domate', 'Salcë']
+      en: ['Lamb/Chicken meat', 'Pita bread', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Xaxiki', 'Spice'],
+      sq: ['Mish dashi/pule', 'Bukë pite', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Xaxiki', 'Erëza']
     },
     price: {
       en: '€3.00',
@@ -58,8 +58,8 @@ const menuItems: MenuItem[] = [
       sq: 'Wrap lindor me mish të erëzuar dhe perime të freskëta'
     },
     ingredients: { 
-      en: ['Spiced meat', 'Tortilla wrap', 'Lettuce', 'Tomatoes', 'Garlic sauce'],
-      sq: ['Mish i erëzuar', 'Tortilla', 'Marulë', 'Domate', 'Salcë hudhra']
+      en: ['Spiced meat', 'Tortilla wrap', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Xaxiki', 'Spice'],
+      sq: ['Mish i erëzuar', 'Tortilla', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Xaxiki', 'Erëza']
     },
     price: {
       en: '€4.50',
@@ -72,12 +72,12 @@ const menuItems: MenuItem[] = [
     id: 4,
     name: { en: 'Hot Dog', sq: 'Hot-dog' },
     description: { 
-      en: 'Classic sausage in a bun with mustard and ketchup',
-      sq: 'Sallam klasik në bukë me mustardë dhe ketchup'
+      en: 'Classic sausage with your choice of fillings',
+      sq: 'Sallam klasik me mbushjen që zgjidhni'
     },
     ingredients: { 
-      en: ['Sausage', 'Hot dog bun', 'Mustard', 'Ketchup', 'Onions'],
-      sq: ['Sallam', 'Bukë hot-dog', 'Mustardë', 'Ketchup', 'Qepë']
+      en: ['Sausage', 'Hot dog bun', 'Onion', 'Potato', 'Sour sauce', 'Cucumber', 'Tomato', 'Spices', 'Xaxiki', 'Spice'],
+      sq: ['Sallam', 'Bukë hot-dog', 'Qepë', 'Patate', 'Salc kosi', 'Kastravec', 'Domate', 'Speca', 'Xaxiki', 'Erëza']
     },
     price: {
       en: '€3.00',
@@ -108,8 +108,8 @@ const menuItems: MenuItem[] = [
     id: 6,
     name: { en: 'Hamburger', sq: 'Hamburger' },
     description: { 
-      en: 'Classic beef burger with fresh vegetables',
-      sq: 'Hamburger klasik me mish viçi dhe perime të freskëta'
+      en: 'Classic beef burger with your choice of fillings',
+      sq: 'Hamburger klasik me mbushjen që zgjidhni'
     },
     ingredients: { 
       en: ['Beef patty', 'Bun', 'Lettuce', 'Tomato', 'Onion', 'Sauce'],
@@ -144,8 +144,8 @@ const menuItems: MenuItem[] = [
     id: 8,
     name: { en: 'Shawarma with Chicken Cutlet', sq: 'Shawarma me kotolet pule' },
     description: { 
-      en: 'Shawarma wrap with crispy chicken cutlet',
-      sq: 'Shawarma me kotolet pule të krisur'
+      en: 'Shawarma wrap with crispy chicken cutlet with your choice of fillings',
+      sq: 'Shawarma me kotolet pule të krisur me mbushjen që zgjidhni'
     },
     ingredients: { 
       en: ['Chicken cutlet', 'Tortilla', 'Vegetables', 'Sauce'],
@@ -536,7 +536,7 @@ const menuItems: MenuItem[] = [
       sq: '200 Lek'
     },
     category: 'kitchen',
-    image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop&auto=format'
+    image: 'https://i.ytimg.com/vi/2L6sNBI9uHg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCn4fHhVwQQWwrQZeja-xuAudAxCw'
   },
 
   // Pizza
