@@ -920,7 +920,7 @@ const menuItems: MenuItem[] = [
       sq: '100 Lek'
     },
     category: 'colddrinks',
-    image: 'https://images.unsplash.com/photo-1563636619-e9143da7973b?w=300&h=200&fit=crop&auto=format'
+    image: 'https://shop.spar.al/wp-content/uploads/2022/08/68489.png'
   },
 
   // Alcoholic Drinks
