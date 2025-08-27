@@ -268,9 +268,9 @@ const menuItems: MenuItem[] = [
   },
   {
     id: 15,
-    name: { en: 'Ham Roll', sq: 'Samune me proshute' },
+    name: { en: 'Prosciutto Roll', sq: 'Samune me proshute' },
     description: { 
-      en: 'Fresh roll with premium ham',
+      en: 'Fresh roll with premium prosciutoo',
       sq: 'Samun i freskët me proshutë premium'
     },
     ingredients: { 
@@ -560,9 +560,9 @@ const menuItems: MenuItem[] = [
   },
   {
     id: 31,
-    name: { en: 'Ham Pizza', sq: 'Proshute' },
+    name: { en: 'Prosciutto Pizza', sq: 'Proshute' },
     description: { 
-      en: 'Pizza topped with ham and mozzarella cheese',
+      en: 'Pizza topped with prosciutto and mozzarella cheese',
       sq: 'Pica me proshutë dhe djathë mozzarella'
     },
     ingredients: { 
